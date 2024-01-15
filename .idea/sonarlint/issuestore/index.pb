@@ -1,8 +1,6 @@
 
 `
 0order-service/src/main/resources/application.yml,1\9\19d9da002b82c5e353a6b96ce8fb1b2e5ecf05e5
-8
-build.py,e\9\e9caecba20d7dec63ecb344525ee3224abb3827c
 ´
 {product-validation-service/src/main/java/br/com/microservices/orchestrated/productvalidationservice/constants/Constant.java,f\3\f35ea1b0cbbcd2dfbc775cb9ffcfae53db136352
 ñ
@@ -23,17 +21,21 @@ lpayment-service/src/main/java/br/com/microservices/orchestrated/paymentservice/
 Åproduct-validation-service/src/main/java/br/com/microservices/orchestrated/productvalidationservice/config/kafka/KafkaConfig.java,9\4\942aaf6bca32e494bdfe4edd148891398256620f
 ¶
 vorchestrator-service/src/main/java/br/com/microservices/orchestrated/orchestratorservice/config/kafka/KafkaConfig.java,6\9\6966174e8e84a31c0c2f025aa917d33faf319726
-†
-porchestrator-service/src/main/java/br/com/microservices/orchestrated/orchestratorservice/core/enums/ETopics.java,a\f\afc490b4dcb6e4d433e8f259e1d769959a9625a5
 O
 orchestrator-service/Dockerfile,2\b\2b6a0c487041b578f172f851175695ef723c0a26
 H
 order-service/Dockerfile,6\c\6ca8c7ba98a55aa5204b50509916e7ece908a304
 J
 payment-service/Dockerfile,1\c\1ccefa41a2d0d16950477fd54af85245a9132b3a
-U
-%product-validation-service/Dockerfile,f\f\ffd5b1f8383b032daba0fb6ca69ee19e090a26e3
 L
 inventory-service/Dockerfile,b\e\be79f32c7484b82d4ace977b26ed0e5c7517dc56
+L
+payment-service/build.gradle,4\d\4daeb8f22a1d02f69584cb8eb45bbfb10e25d0ac
+J
+order-service/build.gradle,0\6\06205d550c04a72397fe306f01f576092ca63981
+Q
+!orchestrator-service/build.gradle,d\b\db4330904e96ffb633a58e19a7830236f1255be6
+N
+inventory-service/build.gradle,8\1\81a386639c835a12e946c38574226897c3877383
 R
 "product-validation-service/gradlew,0\3\031a3116d8889107f4a21a1dcb7ae6dc9cbfd2f8

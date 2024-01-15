@@ -115,9 +115,9 @@ services:
     ports:
       - 8080:8080
 
-  product-valdiation-service:
-    build: './product-valdiation-service'
-    container_name: product-valdiation-service
+  product-validation-service:
+    build: './product-validation-service'
+    container_name: product-validation-service
     depends_on:
       - product-db
       - kafka
